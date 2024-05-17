@@ -39,29 +39,4 @@ class Following{
        }
    }
 }
-# const yvonne=new Following("Yvonne")
-# const brigo=new Following("brigo")
-# brigo.addUser("Umurerwa")
-# brigo.addUser("Digne")
-# yvonne.addUser("Faith")
-# yvonne.addUser("Queen")
-# yvonne.addUser("Bella")
-# console.log(yvonne)
-# console.log(brigo)
 
-
-# const student={
-#     name:"karen",
-#     age:23,
-#     grades:[23,45,67,89]
-# }
-
-# fun averageGrades(student){
-#     let sum =0
-#      for (let i=0;i<student.grades.length;++i){
-#          sum+=student.grades[i]
-#          let average = sum/student.grades.length
-#          console.log(average)
-#      }
-# } 
-# console.log(verageGrades(student))
